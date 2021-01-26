@@ -1,135 +1,80 @@
 {
-  "width": "100%",
-  "height": "600",
+  "width": 770,
+  "height": 450,
   "symbolsGroups": [
     {
-      "name": "Stocks",
+      "name": "Indices",
+      "originalName": "Indices",
       "symbols": [
         {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
+          "name": "NASDAQ:AAPL",
+          "displayName": "Apple"
         },
         {
-          "name": "TSX:BB",
-          "displayName": "BB - Blackberry"
+          "name": "NYSE:T",
+          "displayName": "AT&T"
         },
         {
-          "name": "TSX:BEPC",
-          "displayName": "BEPC - Brookfield Renewable"
-        },
-        {
-          "name": "TSX:BEP.UN",
-          "displayName": "BEP.UN - Brookfield Renewable"
-        },
-        {
-          "name": "TSX:BIP.UN",
-          "displayName": "BIP.UN - Brookfield Infrastructure"
-        },
-        {
-          "name": "TSX:BMO",
-          "displayName": "BMO - Bank of Montreal"
-        },
-        {
-          "name": "NASDAQ:CLAR",
-          "displayName": "CLAR - Clarus (BD)"
-        },
-        {
-          "name": "NYSE:GME",
-          "displayName": "GME - Gamestop"
-        },
-        {
-          "name": "TSXV:GRN",
-          "displayName": "GRN.V - Greenlane Renewables"
-        },
-        {
-          "name": "TSX:GRT.UN",
-          "displayName": "GRT.UN - Granite REIT"
-        },
-        {
-          "name": "TSX:LSPD",
-          "displayName": "LSPD - Lightspeed"
-        },
-        {
-          "name": "NASDAQ:MSFT",
-          "displayName": "MSFT - Microsoft"
-        },
-        {
-          "name": "NYSE:PLTR",
-          "displayName": "PLTR - Palantir"
-        },
-        {
-          "name": "TSX:VET",
-          "displayName": "VET - Vermillion Energy"
+          "name": "NYSE:DIS",
+          "displayName": "Disney"
         }
       ]
     },
     {
-      "name": "ETFs",
+      "name": "Commodities",
+      "originalName": "Commodities",
       "symbols": [
         {
-          "name": "NASDAQ:BOTZ",
-          "displayName": "BOTZ - Robots & AI"
+          "name": "CME_MINI:ES1!",
+          "displayName": "S&P 500"
         },
         {
-          "name": "AMEX:IPAY",
-          "displayName": "IPAY - Mobile/FinTech"
+          "name": "COMEX:GC1!",
+          "displayName": "Gold"
         },
         {
-          "name": "NASDAQ:QCLN",
-          "displayName": "QCLN - Clean Energy Index"
+          "name": "NYMEX:CL1!",
+          "displayName": "Crude Oil"
         },
         {
-          "name": "NASDAQ:SKYY",
-          "displayName": "SKYY - Cloud Computing"
+          "name": "TVC:UKOIL",
+          "displayName": "Brent Crude"
         },
         {
-          "name": "TSX:TEC",
-          "displayName": "TEC - Technology Index"
-        },
-        {
-          "name": "TSX:XIT",
-          "displayName": "XIT - CAD Tech Index"
-        },
-        {
-          "name": "TSX:ZRE",
-          "displayName": "ZRE - REITs"
-        },
-        {
-          "name": "TSX:ZUT",
-          "displayName": "ZUT - Utilities"
-        },
-        {
-          "name": "TSX:ZWB",
-          "displayName": "ZWB - CC Banks"
-        },
-        {
-          "name": "TSX:ZWU",
-          "displayName": "ZWU - CC Utilities"
+          "name": "TVC:USOIL",
+          "displayName": "Crude WTI"
         }
       ]
     },
     {
-      "name": "Watch List",
+      "name": "Forex",
+      "originalName": "Forex",
       "symbols": [
         {
-          "name": "NASDAQ:CRSR",
-          "displayName": "CRSR - Corsair"
+          "name": "FX:EURUSD"
         },
         {
-          "name": "NYSE:DM",
-          "displayName": "DM - Desktop Metal"
+          "name": "FX:GBPUSD"
         },
         {
-          "name": "NYSE:PRLB",
-          "displayName": "PRLB - PROTO Labs"
+          "name": "CURRENCYCOM:NOKSEK",
+          "displayName": "Nok/Sek"
         },
         {
-          "name": "AMEX:PRNT",
-          "displayName": "PRNT - 3D Printing"
+          "name": "SAXO:NOKUSD",
+          "displayName": "Nok/Usd"
         },
         {
-          "name": "NYSE:SQ",
-          "displayName": "SQ - Square"
+          "name": "OANDA:USDNOK",
+          "displayName": "Usd/Nok"
+        },
+        {
+          "name": "FX_IDC:NOKEUR",
+          "displayName": "Nok/Eur"
+        },
+        {
+          "name": "CURRENCYCOM:GBPNOK",
+          "displayName": "Gbp/Nok"
         }
       ]
     }
